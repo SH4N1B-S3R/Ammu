@@ -1,7 +1,7 @@
 # *SH4NIB WHATSAPP-BOT*
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/wwhvgxI.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/ZRNsMPD.jpeg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/shan_.x98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -40,7 +40,7 @@
 ## Developers
   <div align="center">
   
-   [![DEVIL](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/SH4N1B-S3R)
+   [![SHANIB](https://i.imgur.com/ZRNsMPD.jpeg)](https://github.com/SH4N1B-S3R)
 ----|
 <div align="center">
 
