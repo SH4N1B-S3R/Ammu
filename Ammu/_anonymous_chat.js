@@ -22,3 +22,4 @@ handler.before = async function (m, { match }) {
 }
 
 module.exports = handler
+}
