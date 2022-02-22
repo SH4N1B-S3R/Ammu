@@ -26,7 +26,7 @@ type *#sorry* to reduce the warning
                     this.groupSettingChange(m.chat, GroupSettingChange.messageSend, true)
                 }
             }
-        }
+        
     }
     return !0
 }
