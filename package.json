@@ -1,12 +1,12 @@
 {
-  "name": "Ammu",
+  "name": "𝚜𝙷𝙰𝙽𝚄",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "directories": {
     "lib": "lib",
     "src": "src",
-    "plugins": "Ammu"
+    "plugins": "𝚂𝙷𝙰𝙽𝚄"
   },
   "scripts": {
     "start": "node index.js --public",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D-E-V-I-L-8/Ammu.git"
+    "url": "git+https://github.com/SH4N1B-S3R/Ammu.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "D-E-V-I-L-8",
+  "author": "SH4NIB",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/D-E-V-I-L-8/Ammu/issues"
+    "url": "https://github.com/SH4N1B-S3R/Ammu/issues"
   },
-  "homepage": "https://github.com/D-E-V-I-L-8/Ammu",
+  "homepage": "https://github.com/SH4N1B-S3R/Ammu",
   "dependencies": {
     "@adiwajshing/baileys": "github:D-E-V-I-L-8/baileys",
     "awesome-phonenumber": "^2.54.0",
