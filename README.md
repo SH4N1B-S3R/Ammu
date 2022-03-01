@@ -44,7 +44,7 @@
 ----|
 <div align="center">
 
-   [`DEVIL`](https://github.com/SH4N1B-S3R)
+   [`SH4NIB`](https://github.com/SH4N1B-S3R)
 
    `RE-DEVELOPER`
                                   
