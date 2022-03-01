@@ -35,7 +35,7 @@ function pipeEmit(event, event2, prefix = '') {
             event.emit = old
         }
     }
-}
+
 
 
 module.exports = connect
