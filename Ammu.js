@@ -238,6 +238,6 @@ async function _quickTest() {
   if (!s.convert && !s.magick && !s.gm) conn.logger.warn('Stickers may not work without imagemagick if libwebp in ffmpeg is not installed (pkg install imagemagick)')
 }
 
-_quickTest()
+_quickTest() 
   .then(() => conn.logger.info('Quick Test Done'))
   .catch(console.error)
