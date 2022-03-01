@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['919656459062'] // Letakan nomor kamu disini
+global.owner = ['918075168486'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -31,14 +31,14 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Ammu-Sticker'
-global.author = 'Ammu'
+global.packname = '𝐒 𝚮 𝚲 𝚴 𝚰 𝚩'
+global.author = '𝚜𝚑𝚊𝚗𝚞'
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://ibb.co/jW31z7n'
 
-global.watermark = '© Ammu'
+global.watermark = '© 𝚂𝙷𝙰𝙽𝚄 '
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
