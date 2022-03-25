@@ -1,7 +1,7 @@
 # *SH4NIB WHATSAPP-BOT*
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/ZRNsMPD.jpeg" width="200" height="200"/>
+  <img border-radius: 15px "https://cardivo.vercel.app/api?name=SH4N1B-S3R%20&description=WELCOME+TO+MY+PROFILE&image=https://i.imgur.com/QEt7Iv0.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=shan_.x98.exo&github=SH4N1B-S3R&" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/shan_.x98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
